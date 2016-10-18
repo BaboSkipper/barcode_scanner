@@ -13,7 +13,7 @@
     tools:context="zui.android.barcodescanner.MainActivity"
     tools:showIn="@layout/activity_main">
     <Button
-        android:text="Button"
+        android:text="@string/press_here_to_scan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button" />
